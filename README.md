@@ -5,6 +5,9 @@
 
 Check out my [Website](https://enzoarata.github.io/) to see my full portfolio and learn more about me
 
+<p>I have several private repositories that contain valuable code, which I view as potential business ventures. While I would love to share some of this code, I choose to keep these repositories private to protect their value. If you are interested in taking a look pleace contact me and I can let you take a look</p>
+- For those that are curious, here is on of those business ventures. [NFTSuite](https://nftsuite.net/)
+
 
 
 - How to reach me: enzoarata50@gmail.com
