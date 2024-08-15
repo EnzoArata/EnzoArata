@@ -9,7 +9,7 @@ Check out my [Website](https://enzoarata.github.io/) to see my full portfolio an
 
 <p>I have several private repositories that contain valuable code, which I view as potential business ventures. While I would love to share some of this code, I choose to keep these repositories private to protect their value. If you are interested in taking a look pleace contact me and I can let you take a look</p>
 
-For those that are curious, here is on of those business ventures. [NFTSuite](https://nftsuite.net/)
+For those that are curious, here is one of those business ventures. [NFTSuite](https://nftsuite.net/)
 
 ***
 
