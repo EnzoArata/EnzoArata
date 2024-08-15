@@ -11,7 +11,7 @@ For those that are curious, here is on of those business ventures. [NFTSuite](ht
 
 
 
-- How to reach me: enzoarata50@gmail.com
+- Please contact me using the following email **<enzoarata50@gmail.com>**
 
 <!--
 **EnzoArata/EnzoArata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
