@@ -3,7 +3,7 @@
 - I'm currently working as a Software Engineer on the Data Platform team at Coupa Software
 - I love to code in Python as I find it readable and enjoy the many libraries
 
-Check out my [Website]([https://link-url-here.org](https://enzoarata.github.io/)) to see my full portfolio and learn more about me
+Check out my [Website](https://enzoarata.github.io/) to see my full portfolio and learn more about me
 
 
 
