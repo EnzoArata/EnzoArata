@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hello and welcome to my Github page
+
+- I'm currently working as a Software Engineer on the Data Platform team at Coupa Software
+- I love to code in Python as I find it readable and enjoy the many libraries
+
+<p>Check out my [Website]([https://link-url-here.org](https://enzoarata.github.io/)) to see my full portfolio and learn more about me</p>
+
+
+
+- How to reach me: enzoarata50@gmail.com
 
 <!--
 **EnzoArata/EnzoArata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
